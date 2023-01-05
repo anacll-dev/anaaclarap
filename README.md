@@ -7,7 +7,7 @@
 </h3>
 
 <h3>
- ⚡ 1° ano do curso de Desenvolvimento de Sistemas na ETEC
+ ⚡ 2° ano do curso de Desenvolvimento de Sistemas na ETEC
 </h3>
 
 <h3>
@@ -31,7 +31,7 @@
   <img align="center" alt="css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="center" alt="php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
           
 
 
