@@ -1,6 +1,6 @@
 <h1 align="center">Oi, eu sou a Ana Clara👋</h1>
 
-<h3 align="center">⚡ Estudante 2° ano do curso de Desenvolvimento de Sistemas na ETEC</h3>
+<h3 align="center">⚡ Estudante 3° ano do curso de Desenvolvimento de Sistemas na ETEC</h3>
 
 ##
 
